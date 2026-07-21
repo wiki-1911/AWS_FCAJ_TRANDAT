@@ -1,5 +1,5 @@
-baseURL = "https://workshop-sample.awsfcaj.com/"
-relativeURLs = false
+baseURL = "https://wiki-1911.github.io/AWS_FCAJ_TRANDAT/"
+relativeURLs = true
 canonifyURLs = false
 defaultContentLanguage = "en"
 
