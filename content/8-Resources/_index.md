@@ -16,6 +16,14 @@ _Visit the [**GitHub Repository**](https://github.com/runeeyes584/TCG-AWS) to vi
 
 ---
 
+### Live Web Game
+
+🎮 **Play Chrono Genesis Online**
+
+👉 **https://dev.d3oenyc702mfnb.amplifyapp.com/**
+
+---
+
 ### Product Demo Videos
 
 > Please use headphones or turn on audio for the best experience!

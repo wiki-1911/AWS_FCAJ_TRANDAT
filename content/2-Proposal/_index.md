@@ -45,8 +45,6 @@ _AWS Services Used_
 
 - _Amazon Route 53_: Communicates with the web application.
 
-- _Amazon S3_: Manages domain names and routes player traffic to the application.
-
 - _Amazon Cognito_: Authenticates player identities, manages login sessions, and issues JWT Tokens.
 
 - _Amazon API Gateway (WebSocket API)_: Manages real-time bidirectional connections between the Client and Server.
