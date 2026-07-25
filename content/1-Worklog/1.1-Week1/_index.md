@@ -25,7 +25,7 @@ pre: " <b> 1.1. </b> "
 | 2   | Get acquainted with other interns and form a working group.              | 06/05/2026 | 06/05/2026      | Internal Activities                                                      |
 | 3   | Review the AWS Workforce Bootcamp learning roadmap.                      | 07/05/2026 | 07/05/2026      | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
 | 4   | Explore the structure of the learning modules and hands-on laboratories. | 08/05/2026 | 08/05/2026      | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
-| 5   | Prepare the working environment for the upcoming AWS practical sessions. | 09/05/2026 | 10/05/2026      | AWS Console                                                              |
+| 5   | Prepare the working environment for the upcoming AWS practical sessions. | 09/05/2026 | 10/05/2026      | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
 
 ### Week 1 Achievements
 

@@ -12,7 +12,7 @@ pre: " <b> 1.2. </b> "
 
 ### Mục tiêu tuần 2
 
-- Làm quen với giao diện AWS Management Console và các dịch vụ cốt lõi của AWS.
+- Làm quen với giao diện https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1ivà các dịch vụ cốt lõi của AWS.
 - Hoàn thành Module 1 của chương trình AWS Workforce Bootcamp.
 - Tìm hiểu về AWS Identity and Access Management (IAM).
 - Hiểu cách quản lý chi phí và tối ưu hóa tài nguyên trên AWS.
@@ -25,7 +25,7 @@ pre: " <b> 1.2. </b> "
 | 2    | Đăng ký tài khoản AWS và hoàn thành các bước khởi tạo môi trường.                                                                             | 12/05/2026 | 12/05/2026 | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
 | 3    | Thực hiện 5 bài thực hành làm quen với các dịch vụ: Amazon EC2, Amazon Bedrock, Amazon Aurora & RDS, AWS Lambda và Billing & Cost Management. | 13/05/2026 | 14/05/2026 | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
 | 4    | Hoàn thành toàn bộ nội dung lý thuyết Module 1 (Bài 1.1 – 1.7).                                                                               | 15/05/2026 | 16/05/2026 | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
-| 5    | Thực hành tối ưu chi phí sử dụng AWS và cấu hình IAM để quản lý đăng nhập.                                                                    | 17/05/2026 | 17/05/2026 | AWS Management Console                                                   |
+| 5    | Thực hành tối ưu chi phí sử dụng AWS và cấu hình IAM để quản lý đăng nhập.                                                                    | 17/05/2026 | 17/05/2026 | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
 
 ### Kết quả đạt được
 

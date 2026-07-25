@@ -22,9 +22,9 @@ pre: " <b> 1.4. </b> "
 | Ngày | Nội dung                                                               | Bắt đầu    | Hoàn thành | Tài liệu tham khảo                                                       |
 | ---- | ---------------------------------------------------------------------- | ---------- | ---------- | ------------------------------------------------------------------------ |
 | 1    | Thực hành Lab 03: Triển khai và quản lý Amazon EC2 Instances.          | 25/05/2026 | 26/05/2026 | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
-| 2    | Thực hành tạo, cấu hình và kết nối Amazon EC2 Instances.               | 27/05/2026 | 27/05/2026 | AWS Management Console                                                   |
+| 2    | Thực hành tạo, cấu hình và kết nối Amazon EC2 Instances.               | 27/05/2026 | 27/05/2026 | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
 | 3    | Thực hành Lab 10: Thiết lập Hybrid DNS với Route 53 Resolver.          | 28/05/2026 | 29/05/2026 | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
-| 4    | Kiểm tra hoạt động của Hybrid DNS và ôn tập các nội dung đã thực hành. | 30/05/2026 | 30/05/2026 | AWS Management Console                                                   |
+| 4    | Kiểm tra hoạt động của Hybrid DNS và ôn tập các nội dung đã thực hành. | 30/05/2026 | 30/05/2026 | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
 
 ### Kết quả đạt được
 

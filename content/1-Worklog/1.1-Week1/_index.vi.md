@@ -25,7 +25,7 @@ pre: " <b> 1.1. </b> "
 | 2    | Làm quen với các thực tập sinh và thành lập nhóm học tập.                           | 06/05/2026 | 06/05/2026 | Hoạt động nội bộ                                                         |
 | 3    | Xem tổng quan lộ trình học AWS Workforce Bootcamp.                                  | 07/05/2026 | 07/05/2026 | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
 | 4    | Tìm hiểu cấu trúc các Module lý thuyết và các bài Lab thực hành.                    | 08/05/2026 | 08/05/2026 | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
-| 5    | Chuẩn bị môi trường làm việc cho các buổi thực hành AWS trong những tuần tiếp theo. | 09/05/2026 | 10/05/2026 | AWS Console                                                              |
+| 5    | Chuẩn bị môi trường làm việc cho các buổi thực hành AWS trong những tuần tiếp theo. | 09/05/2026 | 10/05/2026 | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
 
 ### Kết quả đạt được
 

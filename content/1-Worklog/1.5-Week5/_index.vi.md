@@ -22,9 +22,9 @@ pre: " <b> 1.5. </b> "
 | Ngày | Nội dung                                                                                                                                           | Bắt đầu    | Hoàn thành | Tài liệu tham khảo                                                       |
 | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ------------------------------------------------------------------------ |
 | 1    | Hoàn thành nội dung lý thuyết Module 3 (Bài 3.1 – 3.7).                                                                                            | 01/06/2026 | 02/06/2026 | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
-| 2    | Thực hành **Lab 19: Setting Up VPC Peering**, bao gồm cấu hình VPC Peering Connection, Network ACL và Cross-Peering DNS.                           | 03/06/2026 | 04/06/2026 | AWS Management Console                                                   |
-| 3    | Thực hành **Lab 20: Create Transit Gateway**, bao gồm tạo Transit Gateway, Transit Gateway Attachments, Route Tables và cấu hình VPC Route Tables. | 05/06/2026 | 06/06/2026 | AWS Management Console                                                   |
-| 4    | Kiểm tra kết nối giữa các VPC và ôn tập các nội dung đã thực hành về VPC Peering và Transit Gateway.                                               | 07/06/2026 | 07/06/2026 | AWS Management Console                                                   |
+| 2    | Thực hành **Lab 19: Setting Up VPC Peering**, bao gồm cấu hình VPC Peering Connection, Network ACL và Cross-Peering DNS.                           | 03/06/2026 | 04/06/2026 | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
+| 3    | Thực hành **Lab 20: Create Transit Gateway**, bao gồm tạo Transit Gateway, Transit Gateway Attachments, Route Tables và cấu hình VPC Route Tables. | 05/06/2026 | 06/06/2026 | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
+| 4    | Kiểm tra kết nối giữa các VPC và ôn tập các nội dung đã thực hành về VPC Peering và Transit Gateway.                                               | 07/06/2026 | 07/06/2026 | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
 
 ### Kết quả đạt được
 

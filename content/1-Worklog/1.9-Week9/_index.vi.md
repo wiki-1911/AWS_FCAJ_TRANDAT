@@ -19,12 +19,12 @@ pre: " <b> 1.9. </b> "
 
 ### Công việc thực hiện
 
-| Ngày | Nội dung                                                                                                                                  | Bắt đầu    | Hoàn thành | Tài liệu tham khảo     |
-| ---- | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ---------------------- |
-| 1    | Thực hành **Lab 14**, cài đặt VMware Workstation, nhập máy ảo lên AWS và xuất Amazon EC2 Instance về môi trường on-premises.              | 29/06/2026 | 30/06/2026 | AWS Management Console |
-| 2    | Thực hành **Lab 24**, triển khai và cấu hình **AWS Storage Gateway**, ánh xạ Default File Share và tạo các File Share mới.                | 01/07/2026 | 02/07/2026 | AWS Management Console |
-| 3    | Thực hành **Lab 25**, kiểm tra hiệu năng lưu trữ, bật Data Deduplication, Shadow Copies, Storage Quotas và Continuous Access File Shares. | 03/07/2026 | 04/07/2026 | AWS Management Console |
-| 4    | Thực hiện mở rộng Throughput và Storage Capacity, đồng thời kiểm tra, đánh giá toàn bộ hệ thống đã triển khai.                            | 05/07/2026 | 05/07/2026 | AWS Management Console |
+| Ngày | Nội dung                                                                                                                                  | Bắt đầu    | Hoàn thành | Tài liệu tham khảo                                                       |
+| ---- | ----------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ------------------------------------------------------------------------ |
+| 1    | Thực hành **Lab 14**, cài đặt VMware Workstation, nhập máy ảo lên AWS và xuất Amazon EC2 Instance về môi trường on-premises.              | 29/06/2026 | 30/06/2026 | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
+| 2    | Thực hành **Lab 24**, triển khai và cấu hình **AWS Storage Gateway**, ánh xạ Default File Share và tạo các File Share mới.                | 01/07/2026 | 02/07/2026 | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
+| 3    | Thực hành **Lab 25**, kiểm tra hiệu năng lưu trữ, bật Data Deduplication, Shadow Copies, Storage Quotas và Continuous Access File Shares. | 03/07/2026 | 04/07/2026 | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
+| 4    | Thực hiện mở rộng Throughput và Storage Capacity, đồng thời kiểm tra, đánh giá toàn bộ hệ thống đã triển khai.                            | 05/07/2026 | 05/07/2026 | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
 
 ### Kết quả đạt được
 

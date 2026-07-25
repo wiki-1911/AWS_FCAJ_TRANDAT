@@ -23,8 +23,8 @@ pre: " <b> 1.3. </b> "
 | ---- | ----------------------------------------------------------------------------------------------------- | ---------- | ---------- | ------------------------------------------------------------------------ |
 | 1    | Tham gia sự kiện AWS để tìm hiểu về công nghệ điện toán đám mây và xu hướng phát triển.               | 18/05/2026 | 18/05/2026 | AWS Event                                                                |
 | 2    | Hoàn thành nội dung lý thuyết Module 2 (Bài 2.1 – 2.3).                                               | 19/05/2026 | 20/05/2026 | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
-| 3    | Thực hành tạo và cấu hình Amazon Virtual Private Cloud (VPC).                                         | 21/05/2026 | 22/05/2026 | AWS Management Console                                                   |
-| 4    | Thực hành cấu hình bảo mật cho VPC, bao gồm Security Groups và các thiết lập kiểm soát truy cập mạng. | 23/05/2026 | 24/05/2026 | AWS Management Console                                                   |
+| 3    | Thực hành tạo và cấu hình Amazon Virtual Private Cloud (VPC).                                         | 21/05/2026 | 22/05/2026 | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
+| 4    | Thực hành cấu hình bảo mật cho VPC, bao gồm Security Groups và các thiết lập kiểm soát truy cập mạng. | 23/05/2026 | 24/05/2026 | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
 
 ### Kết quả đạt được
 

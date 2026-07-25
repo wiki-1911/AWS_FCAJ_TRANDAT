@@ -20,12 +20,12 @@ pre: " <b> 1.7. </b> "
 
 ### Tasks to be carried out this week
 
-| Day | Task                                                                                                                                                         | Start Date | Completion Date | Reference Material     |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ---------------------- |
-| 1   | Attend the on-site training session and discuss the lab objectives with mentors.                                                                             | 15/06/2026 | 15/06/2026      | Company Office         |
-| 2   | Complete **Lab 24** by creating an Amazon S3 bucket, deploying an EC2 instance for Storage Gateway, creating a Storage Gateway, and configuring File Shares. | 16/06/2026 | 18/06/2026      | AWS Management Console |
-| 3   | Complete **Lab 57** by enabling static website hosting, configuring public access settings, and testing the website.                                         | 19/06/2026 | 20/06/2026      | AWS Management Console |
-| 4   | Configure Bucket Versioning, move objects, set up cross-region object replication, and optimize the static website performance.                              | 21/06/2026 | 21/06/2026      | AWS Management Console |
+| Day | Task                                                                                                                                                         | Start Date | Completion Date | Reference Material                                                       |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ------------------------------------------------------------------------ |
+| 1   | Attend the on-site training session and discuss the lab objectives with mentors.                                                                             | 15/06/2026 | 15/06/2026      | Company Office                                                           |
+| 2   | Complete **Lab 24** by creating an Amazon S3 bucket, deploying an EC2 instance for Storage Gateway, creating a Storage Gateway, and configuring File Shares. | 16/06/2026 | 18/06/2026      | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
+| 3   | Complete **Lab 57** by enabling static website hosting, configuring public access settings, and testing the website.                                         | 19/06/2026 | 20/06/2026      | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
+| 4   | Configure Bucket Versioning, move objects, set up cross-region object replication, and optimize the static website performance.                              | 21/06/2026 | 21/06/2026      | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
 
 ### Week 7 Achievements
 

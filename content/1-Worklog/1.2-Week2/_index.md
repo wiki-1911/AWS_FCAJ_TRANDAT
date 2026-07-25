@@ -12,7 +12,7 @@ pre: " <b> 1.2. </b> "
 
 ### Week 2 Objectives
 
-- Become familiar with the AWS Management Console and core AWS services.
+- Become familiar with the https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1iand core AWS services.
 - Complete Module 1 of the AWS Workforce Bootcamp.
 - Learn the fundamentals of AWS Identity and Access Management (IAM).
 - Understand AWS cost management and billing optimization.
@@ -25,7 +25,7 @@ pre: " <b> 1.2. </b> "
 | 2   | Register an AWS account and complete the onboarding tasks.                                                                      | 12/05/2026 | 12/05/2026      | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
 | 3   | Explore AWS core services including Amazon EC2, Amazon Bedrock, Amazon Aurora & RDS, AWS Lambda, and Billing & Cost Management. | 13/05/2026 | 14/05/2026      | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
 | 4   | Complete Module 1 (Lessons 1.1 – 1.7).                                                                                          | 15/05/2026 | 16/05/2026      | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
-| 5   | Practice AWS cost optimization and configure IAM for secure access management.                                                  | 17/05/2026 | 17/05/2026      | AWS Management Console                                                   |
+| 5   | Practice AWS cost optimization and configure IAM for secure access management.                                                  | 17/05/2026 | 17/05/2026      | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
 
 ### Week 2 Achievements
 

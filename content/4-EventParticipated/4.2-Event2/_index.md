@@ -1,101 +1,85 @@
 ---
 title: "Event 2"
 date: 2024-01-01
-weight: 4
+weight: 1
 chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
+
 # Reflection on "FCAJ Community Day"
 
-## Purpose of the Event
+### Purpose of the Event
 
-The event aimed to provide participants with practical knowledge and industry experience in Cloud Computing, Artificial Intelligence, DevOps, Game Development, and modern software engineering. It also served as an opportunity to connect with professionals, learn about current technology trends, and gain career development insights from experienced speakers.
+- The event was organized to share in-depth knowledge, real-world experience, and the latest technology trends in Cloud (AWS), Artificial Intelligence (AI), DevOps, game development, as well as career development guidance and teamwork skills in the IT industry.
 
-## Speakers
+### Speaker List
 
-- **Le Hoang Gia Dai** – Final-year Student, HUTECH University
-- **Bao Huynh** – Junior Cloud Native Developer at Endava Vietnam, Founder of ITea Lab
-- **Tran Trung Vinh** – System Administrator at Central Retail Group
-- **Nguyen Quoc Bao** – Speaker on Godot & AWS WebSockets
-- **Truong Huy Phuoc** – Speaker on Teamwork Skills
-- **Viet Phat** – AI Student at Swinburne University
+- **Le Hoang Gia Dai** - Final-year student at HUTECH University
+- **Bao Huynh** - Junior Cloud Native Developer at Endava Vietnam, Founder of ITea Lab
+- **Tran Trung Vinh** - System Administrator at Central Retail Group
+- **Nguyen Quoc Bao** - Speaker on Godot & AWS WebSockets
+- **Truong Huy Phuoc** - Speaker on Teamwork Skills
+- **Viet Phat** - AI student at Swinburne University
 
-## Key Topics
+### Highlights
 
-### Intelligent Network Security with AWS WAF & ML
+#### AWS WAF & ML NIDS
+- Combining a Web Application Firewall (AWS WAF) with a Machine Learning-based Network Intrusion Detection System (NIDS) to overcome the limitations of traditional rule-based systems, enabling detection of previously unseen attacks based on network behavior.
+- Training the model with the CSE-CIC-IDS2018 dataset and deploying the architecture on AWS.
 
-One of the sessions introduced an approach that combines **AWS WAF** with a **Machine Learning-based Network Intrusion Detection System (NIDS)**. Unlike traditional rule-based security mechanisms, this solution can identify abnormal network behaviors and detect previously unknown attacks by analyzing traffic patterns.
+#### Docker
+- Introduction to Containerization technology (Docker) and comparison with traditional Virtualization (VMs).
+- Docker offers the benefits of being lightweight, running consistently across multiple environments, and being ideal for Microservices or CI/CD architectures.
 
-### Docker and Modern Application Deployment
+#### Journey from IT Helpdesk to Senior Sysadmin
+- Sharing practical experience advancing in the system administration profession, emphasizing the importance of understanding Linux, Networking, and automation.
+- Providing a roadmap toward DevOps/Cloud, including Git, Terraform, Docker, Kubernetes, and an operational mindset.
 
-The presentation explained the fundamentals of **Docker** and compared containerization with traditional virtual machines. Containers provide lightweight, portable, and consistent execution environments, making them well suited for microservices, DevOps workflows, and CI/CD pipelines.
+#### Multiplayer in the Cloud with Godot 
+- Guided how to build a multiplayer game architecture using Godot 4 combined with AWS WebSockets (API Gateway, Lambda, DynamoDB).
+- Compared network architectures and highlighted the limitations of Serverless architecture versus dedicated servers like AWS GameLift.
 
-### Career Journey in System Administration
+#### GraphRAG Architecture
+- Introduced the GraphRAG method (using knowledge graphs to improve RAG), enabling AI models to perform multi-hop reasoning.
+- Guided how to build GraphRAG on AWS in 2 ways: fully managed (Amazon Bedrock, Neptune Analytics) or self-built (LlamaIndex, Amazon Neptune).
 
-A speaker shared valuable experiences about growing from an IT Helpdesk role into a Senior System Administrator. The session emphasized the importance of Linux, networking, scripting, automation, and continuous learning when pursuing a Cloud or DevOps career.
+#### The Art of Teamwork
+- Proposed 4 principles in teamwork: Clear and shared objectives, the right person for the right role, open communication and active listening, and individual accountability.
+- Suggested using digital tools like Trello, ClickUp, Slack, and Discord to optimize work performance.
 
-### Multiplayer Games on AWS
+### Lessons Learned
 
-This session demonstrated how multiplayer games can be developed using **Godot Engine** together with **AWS WebSocket API Gateway**, **AWS Lambda**, and **Amazon DynamoDB**. It also compared serverless architectures with dedicated game servers, highlighting the strengths and limitations of each approach.
+- Learned how network architecture and cloud services (AWS) are being widely applied across many fields: from cybersecurity (NIDS), AI development (GraphRAG), to game infrastructure (Multiplayer).
+- From a systems perspective, gained a clear understanding of the advantages of Docker over traditional VMs and the step-by-step roadmap from an IT technician to a Cloud/DevOps Engineer.
+- Beyond technical skills, also learned how to think about system operations, how to prepare effectively for interviews, and team collaboration skills.
 
-### GraphRAG on AWS
 
-The event also introduced **GraphRAG**, a Retrieval-Augmented Generation approach that enhances AI reasoning by incorporating knowledge graphs. Different implementation strategies on AWS were presented, including fully managed services and self-managed solutions.
 
-### Effective Team Collaboration
+### Application to Work
+- Using Docker: Apply Docker to development and testing environments, or to CI/CD pipelines to ensure applications run consistently on all machines, avoiding environment conflict errors.
+- Improving security: Consider integrating machine learning with existing firewall services to proactively analyze logs and detect unusual access behaviors that traditional WAF cannot catch.
+- Enhancing team performance: Apply the 4 golden principles and set up tools like Trello and Slack to manage progress and communicate more clearly within the project team.
 
-Besides technical content, an interesting session focused on teamwork. The speaker discussed four essential principles of successful collaboration: establishing shared goals, assigning appropriate responsibilities, maintaining open communication, and encouraging accountability. Several collaboration tools such as Trello, Slack, and ClickUp were also introduced.
+### Experience at the Event
 
----
+Attending the **"FCAJ Community Day"** workshop was a very rewarding experience, giving me a comprehensive view of how to modernize applications and databases using modern methods and tools. Some notable highlights:
 
-## What I Learned
+#### Learning from Highly Experienced Speakers
+- The event provided the opportunity to absorb knowledge from experienced engineers at major companies (such as Central Retail Group, Endava) as well as talented tech students, offering a very practical perspective on career paths and technology.
 
-This event broadened my understanding of how AWS technologies are applied across different domains, including cloud infrastructure, cybersecurity, artificial intelligence, and multiplayer game development.
+#### Hands-on Technical Experience
+- All speakers provided clear illustrations such as system architecture diagrams on AWS, network model comparison tables, and even live demonstrations of how to connect two client streams in Godot or how to run Docker, turning theory into a tangible experience.
 
-I also gained a clearer understanding of modern software deployment using Docker, practical career development paths in Cloud and DevOps, and the importance of combining technical expertise with communication and teamwork skills.
+#### Application of Modern Tools
+- The event broadened my awareness of a host of cutting-edge tools and services currently available, including AWS Bedrock, Neptune Analytics, AWS Lambda, DynamoDB, LlamaIndex, Docker, and Terraform.
 
-Perhaps the biggest takeaway was realizing that successful software projects rely not only on technology but also on effective collaboration, continuous learning, and systematic thinking.
+#### Networking and Exchange
+- Throughout the event, especially at the end of each presentation, there were Q&A sessions and QR codes so attendees could connect with speakers via social media (LinkedIn), creating a vibrant networking environment.
 
----
+#### Takeaways
+- Very insightful career advice was shared: practical experience is more valuable than certifications, data quality determines the success or failure of a machine learning system, do not study too many things at once but focus on going deep into 1-2 core skills first, and "no matter where you start, every small step forward has value."
 
-## Applying the Knowledge
-
-The knowledge gained from this event can be applied directly to future projects.
-
-- Use Docker to create consistent development and deployment environments.
-- Explore AI-assisted security solutions to strengthen application protection.
-- Apply AWS WebSocket services when building real-time multiplayer applications.
-- Adopt better collaboration practices and project management tools to improve team productivity.
-
----
-
-## My Experience
-
-Participating in **FCAJ Community Day** was an inspiring experience that allowed me to explore a wide range of modern technologies while learning directly from experienced engineers and technology enthusiasts.
-
-### Learning from Industry Professionals
-
-The speakers came from different technical backgrounds, offering practical insights into Cloud Computing, System Administration, AI, and Software Engineering. Their real-world experiences provided a clearer picture of current industry expectations and career opportunities.
-
-### Practical Technical Knowledge
-
-Rather than focusing only on theory, each presentation included architecture diagrams, implementation examples, demonstrations, and real project experiences. These practical examples made the concepts much easier to understand.
-
-### Discovering New Technologies
-
-The event introduced many AWS services and development tools that I had not previously explored in depth, including Amazon Bedrock, Neptune Analytics, Docker, Terraform, Lambda, DynamoDB, and GraphRAG frameworks.
-
-### Networking Opportunities
-
-The Q&A sessions after each presentation created opportunities to interact directly with the speakers, exchange ideas, and connect with professionals through LinkedIn and other community platforms.
-
-### Personal Takeaways
-
-The event reinforced an important lesson for me: building a successful career in technology requires more than technical knowledge. Continuous learning, practical experience, collaboration, and curiosity are equally important. Every small improvement contributes to long-term professional growth.
-
-## Event Photos
-
+#### Some photos from the event
 ![Event2](/images/4-Events/Event2.png)
-
 ![Event2](/images/4-Events/Event2b.png)

@@ -9,7 +9,9 @@ pre: " <b> 5. </b> "
 
 # XÂY DỰNG WEB GAME TRÊN AWS VỚI SERVERLESS ARCHITECTURE
 
-#### Tổng quan
+## Tổng quan
+
+[Tổng quan về workshop](5.1-Workshop-overview/)
 
 **AWS Serverless Architecture** cung cấp khả năng tự động mở rộng linh hoạt và tối ưu chi phí cho các ứng dụng có lưu lượng truy cập thay đổi liên tục, đặc biệt là các trò chơi trực tuyến thời gian thực.
 
@@ -25,12 +27,13 @@ Chúng ta sẽ sử dụng và kết hợp các dịch vụ cốt lõi của AWS
 
 + **AWS Amplify Hosting** Phân phối toàn cầu giao diện Web (React/TypeScript) và tự động hóa quy trình CI/CD.
 
-#### Nội dung
+## Nội dung
 
 1. [Tổng quan về workshop](5.1-Workshop-overview/)
 2. [Các bước chuẩn bị](5.2-Prerequiste/)
-3. [Tạo Cơ sở dữ liệu Amazon DynamoDB](5.3-S3-vpc/)
-4. [Thiết lập Authentication & API Gateway WebSocket](5.4-S3-onprem/)
-5. [Cấu hình Business Logic Compute (AWS Lambda Functions & SQS)](5.5-Policy/)
-6. [Deploy Frontend Web Game với AWS Amplify Hosting](5.6-Deploy/)
-7. [Dọn dẹp tài nguyên](5.7-Cleanup/)
+3. [Tạo Cơ sở dữ liệu Amazon DynamoDB](5.3-DynamoDB/)
+4. [Triển khai logic với AWS Lambda](5.4-Lambda/)
+5. [Cấu hình SQS và EventBridge](5.5-SQS-EventBridge/)
+6. [Thiết lập Authentication & API Gateway WebSocket](5.6-API/)
+7. [Deploy Frontend Web Game với AWS Amplify Hosting](5.7-Deploy/)
+8. [Dọn dẹp tài nguyên](5.8-Cleanup/)

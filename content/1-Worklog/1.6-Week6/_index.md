@@ -19,12 +19,12 @@ pre: " <b> 1.6. </b> "
 
 ### Tasks to be carried out this week
 
-| Day | Task                                                                    | Start Date | Completion Date | Reference Material     |
-| --- | ----------------------------------------------------------------------- | ---------- | --------------- | ---------------------- |
-| 1   | Complete **Lab 13: Deploy Infrastructure**.                             | 08/06/2026 | 09/06/2026      | AWS Management Console |
-| 2   | Create and configure an **AWS Backup Plan** for the deployed resources. | 10/06/2026 | 11/06/2026      | AWS Management Console |
-| 3   | Perform a restore operation to verify the backup and recovery process.  | 12/06/2026 | 13/06/2026      | AWS Management Console |
-| 4   | Review the lab results and evaluate the backup and restore workflow.    | 14/06/2026 | 14/06/2026      | AWS Management Console |
+| Day | Task                                                                    | Start Date | Completion Date | Reference Material                                                       |
+| --- | ----------------------------------------------------------------------- | ---------- | --------------- | ------------------------------------------------------------------------ |
+| 1   | Complete **Lab 13: Deploy Infrastructure**.                             | 08/06/2026 | 09/06/2026      | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
+| 2   | Create and configure an **AWS Backup Plan** for the deployed resources. | 10/06/2026 | 11/06/2026      | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
+| 3   | Perform a restore operation to verify the backup and recovery process.  | 12/06/2026 | 13/06/2026      | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
+| 4   | Review the lab results and evaluate the backup and restore workflow.    | 14/06/2026 | 14/06/2026      | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
 
 ### Week 6 Achievements
 

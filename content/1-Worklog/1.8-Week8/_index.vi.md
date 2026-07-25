@@ -22,9 +22,9 @@ pre: " <b> 1.8. </b> "
 | Ngày | Nội dung                                                                                      | Bắt đầu    | Hoàn thành | Tài liệu tham khảo                                                       |
 | ---- | --------------------------------------------------------------------------------------------- | ---------- | ---------- | ------------------------------------------------------------------------ |
 | 1    | Hoàn thành nội dung lý thuyết Module 4.                                                       | 22/06/2026 | 23/06/2026 | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
-| 2    | Thực hành **Lab 13**, bao gồm tạo Amazon S3 Bucket và triển khai hạ tầng cần thiết.           | 24/06/2026 | 25/06/2026 | AWS Management Console                                                   |
-| 3    | Tạo và cấu hình **AWS Backup Plan**, đồng thời thiết lập các thông báo cho quá trình sao lưu. | 26/06/2026 | 27/06/2026 | AWS Management Console                                                   |
-| 4    | Thực hiện **Test Restore** để kiểm tra khả năng khôi phục dữ liệu từ bản sao lưu.             | 28/06/2026 | 28/06/2026 | AWS Management Console                                                   |
+| 2    | Thực hành **Lab 13**, bao gồm tạo Amazon S3 Bucket và triển khai hạ tầng cần thiết.           | 24/06/2026 | 25/06/2026 | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
+| 3    | Tạo và cấu hình **AWS Backup Plan**, đồng thời thiết lập các thông báo cho quá trình sao lưu. | 26/06/2026 | 27/06/2026 | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
+| 4    | Thực hiện **Test Restore** để kiểm tra khả năng khôi phục dữ liệu từ bản sao lưu.             | 28/06/2026 | 28/06/2026 | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
 
 ### Kết quả đạt được
 

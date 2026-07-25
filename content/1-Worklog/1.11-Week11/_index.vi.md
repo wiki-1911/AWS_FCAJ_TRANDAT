@@ -22,8 +22,8 @@ pre: " <b> 1.11. </b> "
 
 | Ngày | Nội dung                                                                                                                                                                                               | Bắt đầu    | Hoàn thành | Tài liệu tham khảo     |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ---------- | ---------------------- |
-| 1    | Xây dựng cơ chế giao tiếp thời gian thực bằng **WebSocket** để đồng bộ trạng thái trận đấu giữa các người chơi.                                                                                        | 13/07/2026 | 14/07/2026 | Project Source Code    |
-| 2    | Phát triển hệ thống **ghép trận theo Elo** và tính toán lại điểm Elo sau mỗi trận đấu.                                                                                                                 | 15/07/2026 | 16/07/2026 | Project Documentation  |
+| 1    | Xây dựng cơ chế giao tiếp thời gian thực bằng **WebSocket** để đồng bộ trạng thái trận đấu giữa các người chơi.                                                                                        | 13/07/2026 | 14/07/2026 |                        |
+| 2    | Phát triển hệ thống **ghép trận theo Elo** và tính toán lại điểm Elo sau mỗi trận đấu.                                                                                                                 | 15/07/2026 | 16/07/2026 |                        |
 | 3    | Hoàn thiện quy trình đăng ký bằng **Amazon Cognito**, bổ sung chức năng **gửi lại mã OTP** cho tài khoản ở trạng thái **UNCONFIRMED**.                                                                 | 17/07/2026 | 17/07/2026 | Amazon Cognito         |
 | 4    | Tích hợp **Amazon DynamoDB** để quản lý dữ liệu của web game và xây dựng các **AWS Lambda Function** gồm **Start Match**, **Process Game Engine**, **Save Deck**, **Handle Timeout** và **End Match**. | 18/07/2026 | 19/07/2026 | AWS Management Console |
 

@@ -1,108 +1,96 @@
 ---
-title: "Sự kiện 1"
+title: "Event 1"
 date: 2024-01-01
-weight: 4
+weight: 1
 chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-# Cảm nhận về sự kiện "FCAJ Community Day"
+# Bài thu hoạch “FCAJ Community Day”
 
-## Mục đích của sự kiện
+### Mục Đích Của Sự Kiện
 
-**FCAJ Community Day** được tổ chức nhằm chia sẻ những kiến thức thực tiễn về **Điện toán đám mây (AWS)** và **Trí tuệ nhân tạo (AI)**. Sự kiện mang đến góc nhìn toàn diện về cách xây dựng, triển khai và vận hành các hệ thống AI trong môi trường doanh nghiệp, đồng thời tạo cơ hội để cộng đồng AWS gặp gỡ, giao lưu và học hỏi lẫn nhau.
+- Chia sẻ kiến thức chuyên sâu và kinh nghiệm thực tiễn về Điện toán đám mây (AWS) và Trí tuệ nhân tạo (AI)
+- Hướng dẫn cách xây dựng, bảo mật và vận hành các ứng dụng AI ở quy mô doanh nghiệp thay vì chỉ thử nghiệm
+- Tạo không gian kết nối cộng đồng, cập nhật giải pháp tối ưu hóa hạ tầng AWS CloudFront và truyền cảm hứng qua các cuộc thi Hackathon
 
----
+### Danh Sách Diễn Giả
 
-## Diễn giả tham gia
+- **Duc Dao** - Solution Architect tại Cloud Kinetics
+- **Vy Lam** - Senior Business Systems Analyst tại VPBank
+- **Pham Ng Hai Anh** - Chuyên gia tư vấn Cloud tại G-AsiaPacific Vietnam, AWS Community Builder
+- **Nguyen Tuan Thinh** - DevOps Engineer tại First Cloud AI Journey
+- **Team VIB** - Nhóm tham gia cuộc thi LotusHacks 2026
+- **Tinh Truong** - Platform Engineer tại GoTymeX
 
-Sự kiện có sự góp mặt của nhiều chuyên gia và thành viên giàu kinh nghiệm trong lĩnh vực Cloud và AI:
+### Nội Dung Nổi Bật
 
-- **Đức Đào** – Solution Architect tại Cloud Kinetics
-- **Vy Lâm** – Senior Business Systems Analyst tại VPBank
-- **Phạm Ngô Hải Anh** – Cloud Consulting Specialist tại G-AsiaPacific Vietnam, AWS Community Builder
-- **Nguyễn Tuấn Thịnh** – DevOps Engineer tại First Cloud AI Journey
-- **Đội VIB** – Nhóm tham gia LotusHacks 2026
-- **Trương Tịnh** – Platform Engineer tại GoTymeX
+#### Non-Determinism of "Deterministic" LLM Settings
+- Cấu hình temp = 0 không đảm bảo AI tạo ra kết quả giống nhau 100%
+- Nguyên nhân là do sai số phép toán dấu phẩy động trên GPU và cơ chế gộp batch của nhà cung cấp
 
----
+#### Enterprise-Grade Multi-Agent System
+- Khai thác cách dùng hệ thống đa tác vụ (Multi-Agent) để chấm điểm tín dụng cho startup, thay thế cho hệ thống một tác vụ vốn có nhiều hạn chế như giới hạn ngữ cảnh và thiếu sự kiểm chứng. Hệ thống bao gồm nhiều Agent chuyên biệt (Tài chính, Thị trường, Nhân sự, Rủi ro, Tuân thủ) làm việc như một hội đồng và nhấn mạnh việc triển khai bảo mật, quản trị dữ liệu trên AWS
 
-## Những nội dung nổi bật
+#### Trợ lý AI với Amazon Q
+- Giới thiệu Amazon Q như một giải pháp hợp nhất không gian dữ liệu công ty và tự động hóa các tác vụ lặp đi lặp lại
+- Trợ lý này có thể được ứng dụng cho các vai trò như Quản lý dự án (PM) để tự động tạo biên bản cuộc họp, gửi email và lên lịch
 
-### AI không hoàn toàn mang tính xác định
+#### CloudFront as Your Foundation
+- Giải quyết bài toán chi phí sử dụng dịch vụ AWS bằng Amazon CloudFront (bao gồm CDN, WAF, DDoS, DNS)
+- Tìm hiểu về bảo mật (Origin cloaking, WAF) và tối ưu hiệu suất (HTTP/3, nén dữ liệu)
 
-Một chủ đề rất thú vị được chia sẻ là việc thiết lập **Temperature = 0** không đồng nghĩa với việc mô hình AI sẽ luôn tạo ra kết quả giống nhau. Nguyên nhân đến từ sai số trong quá trình tính toán dấu chấm động trên GPU cũng như cách các nhà cung cấp tối ưu hệ thống xử lý. Qua đó, em hiểu rằng các mô hình AI hiện nay vẫn mang bản chất xác suất và cần được thiết kế để chấp nhận một mức sai số nhất định.
+#### Dự án UTMorpho tại LotusHacks 2026
+- Trải nghiệm 36 giờ tại LotusHacks để xây dựng công cụ biến bản phác thảo thành giao diện (wireframe)
+- Nêu cách xử lý lỗi AI sinh dữ liệu thừa và cạn kiệt token
 
-### Kiến trúc Multi-Agent trong doanh nghiệp
+#### Context Is Everything
+- Khẳng định AI trả lời sai thường do ngữ cảnh kém ("Internet Puller")
+- 4 bước để giao tiếp với AI: Mục tiêu, Thông tin liên quan, Ràng buộc, và Tiêu chí thành công
+- Cần xây dựng "Second AI Brain" với ngữ cảnh được chắt lọc thay vì nhồi nhét toàn bộ dữ liệu
 
-Các diễn giả giới thiệu mô hình **Multi-Agent AI**, trong đó nhiều Agent chuyên biệt cùng phối hợp để giải quyết một bài toán thay vì chỉ sử dụng một mô hình duy nhất. Mỗi Agent đảm nhận một lĩnh vực riêng như tài chính, thị trường, nhân sự, rủi ro hoặc tuân thủ, sau đó kiểm tra chéo lẫn nhau để nâng cao độ chính xác và khả năng kiểm soát của hệ thống.
+### Những Gì Học Được
 
-### Amazon Q và trợ lý AI cho doanh nghiệp
+#### Bản chất của AI
+- AI mang tính xác suất, không hoàn toàn tất định
+- Cần thiết kế hệ thống chấp nhận sự sai số hoặc dùng cơ chế majority voting
 
-Buổi chia sẻ cũng giới thiệu **Amazon Q** như một trợ lý AI dành cho doanh nghiệp, có khả năng tổng hợp dữ liệu nội bộ và hỗ trợ tự động hóa nhiều công việc như ghi biên bản họp, soạn email, quản lý công việc hay hỗ trợ quản lý dự án.
+#### Tư duy Hệ thống
+- Đối với các bài toán phức tạp đòi hỏi chuyên môn đa ngành, việc chia nhỏ thành nhiều Agent để chúng tự kiểm tra chéo (checks & balances) mang lại độ tin cậy và khả năng kiểm toán cao hơn hẳn so với một Agent
 
-### Tối ưu hạ tầng với Amazon CloudFront
+#### Bảo mật & Tối ưu chi phí
+- Dùng CloudFront để tăng tốc web,ẩn IP máy chủ gốc (Origin cloaking)
+- CloudFront có khả năng phòng chống DDoS ở biên và chuyển sang mô hình Flat-pricing để tránh rủi ro tài chính
 
-Một nội dung khác tập trung vào **Amazon CloudFront**, giải thích cách dịch vụ này giúp tăng tốc website, giảm chi phí vận hành và tăng cường bảo mật thông qua các công nghệ như AWS WAF, DDoS Protection, Origin Cloaking và HTTP/3.
 
-### Chia sẻ từ LotusHacks 2026
+### Ứng Dụng Vào Công Việc
+- Kiến trúc quy trình: Áp dụng mô hình Multi-Agent (CrewAI / Bedrock AgentCore) cho các nghiệp vụ phức tạp cần chuyên môn đa ngành
+- Giao tiếp với AI (Prompting): Luôn cung cấp đủ 4 yếu tố trước khi ra lệnh: Mục tiêu, Thông tin liên quan, Ràng buộc, và Tiêu chí thành công
+- Tối ưu Hạ tầng: Bật nén HTTP trên CloudFront để giảm 80% dung lượng tải; dùng tính năng Origin Access Control (OAC) để chặn hoàn toàn truy cập trực tiếp từ Internet vào máy chủ gốc
 
-Đội thi VIB đã chia sẻ hành trình phát triển dự án **UTMorpho** trong vòng 36 giờ tại cuộc thi LotusHacks. Dự án sử dụng AI để chuyển đổi bản phác thảo giao diện thành Wireframe, đồng thời trình bày những khó khăn trong việc kiểm soát đầu ra của AI và tối ưu số lượng token sử dụng.
+### Trải nghiệm trong event
 
-### Context quyết định chất lượng của AI
+Tham gia workshop **“FCAJ Community Day”** là một trải nghiệm rất bổ ích, giúp tôi có cái nhìn toàn diện về cách hiện đại hóa ứng dụng và cơ sở dữ liệu bằng các phương pháp và công cụ hiện đại. Một số trải nghiệm nổi bật:
 
-Một thông điệp quan trọng được nhấn mạnh là **AI chỉ thực sự hiệu quả khi được cung cấp đầy đủ ngữ cảnh**. Các diễn giả giới thiệu phương pháp xây dựng Prompt dựa trên bốn thành phần:
+#### Học hỏi từ các diễn giả có chuyên môn cao
+- Được tiếp cận với tư duy Quy mô doanh nghiệp từ các Solution Architect và DevOps, hiểu rằng làm AI không chỉ là chạy được code mà còn là bảo mật, quản trị dữ liệu và vận hành
 
-- Mục tiêu (Objective)
-- Thông tin liên quan (Relevant Information)
-- Các ràng buộc (Constraints)
-- Tiêu chí thành công (Success Criteria)
+#### Trải nghiệm kỹ thuật thực tế
+- Được xem các luồng triển khai (deployment flow) thực tế từ local lên AWS Cloud thông qua ECR, Lambda, API Gateway và Amazon Bedrock, cũng như hiểu rõ cơ chế toán học bên dưới GPU khiến AI sinh ra lỗi
 
-Cách tiếp cận này giúp AI tạo ra các phản hồi chính xác và phù hợp hơn với yêu cầu thực tế.
+#### Ứng dụng công cụ hiện đại
+- Mở rộng tầm nhìn về hệ sinh thái công cụ hiện tại như Amazon Q, AWS WAF/Shield để chống DDoS, cấu trúc HTTP/3 (QUIC) 
+- Tìm hiểu về quy trình thiết kế công cụ biến bản vẽ thành code bằng Claude
 
----
+#### Kết nối và trao đổi
+- Gặp gỡ và giao lưu với các anh em trong cộng đồng AWS, được truyền thêm cảm hứng để tiếp tục học hỏi và phát triển bản thân.
+- Cảm nhận được tinh thần làm việc nhóm và vượt qua giới hạn bản thân thông qua câu chuyện hackathon 36 giờ của team VIB, cũng như tinh thần chia sẻ cởi mở của cộng đồng AWS
 
-## Những điều em học được
+#### Bài học rút ra
+- Tương lai không phải là cuộc chiến giữa con người và AI, mà là sự khác biệt giữa những người biết cách làm việc với AI so với những người không biết
+- Việc làm chủ ngữ cảnh và có tư duy thiết kế hệ thống tốt chính là chìa khóa để biến AI từ một công cụ giải trí thành một cỗ máy mang lại ROI (tỷ suất hoàn vốn) thực sự trong môi trường sản xuất
 
-Sau khi tham gia sự kiện, em rút ra nhiều bài học hữu ích.
-
-### AI luôn tồn tại tính xác suất
-
-Em nhận thấy rằng AI không phải lúc nào cũng đưa ra kết quả giống nhau. Vì vậy, khi xây dựng các ứng dụng AI trong thực tế, cần có cơ chế kiểm tra, đánh giá và xác thực kết quả thay vì hoàn toàn phụ thuộc vào mô hình.
-
-### Tư duy thiết kế hệ thống
-
-Đối với những bài toán phức tạp, việc phân chia nhiệm vụ cho nhiều Agent chuyên biệt sẽ giúp hệ thống dễ mở rộng, dễ kiểm soát và có độ tin cậy cao hơn so với chỉ sử dụng một mô hình duy nhất.
-
-### Tối ưu hệ thống Cloud
-
-CloudFront không chỉ giúp tăng tốc website mà còn góp phần giảm chi phí, nâng cao khả năng bảo mật và bảo vệ hệ thống backend khỏi các truy cập trực tiếp.
-
----
-
-## Khả năng áp dụng vào dự án
-
-Những kiến thức thu được từ sự kiện có thể áp dụng trực tiếp vào quá trình phát triển dự án của em.
-
-- Áp dụng kiến trúc Multi-Agent cho các bài toán AI phức tạp trong tương lai.
-- Xây dựng Prompt theo cấu trúc rõ ràng gồm mục tiêu, ngữ cảnh, ràng buộc và kết quả mong muốn.
-- Tận dụng Amazon CloudFront để tối ưu hiệu năng, giảm băng thông và tăng cường bảo mật cho ứng dụng.
-- Quan tâm đến yếu tố bảo mật và tối ưu chi phí ngay từ giai đoạn thiết kế hệ thống thay vì chỉ xử lý khi dự án hoàn thành.
-
----
-
-## Cảm nhận sau khi tham dự
-
-Tham gia **FCAJ Community Day** là một trong những trải nghiệm đáng nhớ nhất trong quá trình thực tập của em. Không chỉ được cập nhật các xu hướng mới về Cloud Computing và AI, em còn có cơ hội lắng nghe những chia sẻ thực tế từ các chuyên gia đang làm việc trong ngành.
-
-Thông qua các bài trình bày, em hiểu rõ hơn cách các doanh nghiệp xây dựng và vận hành những hệ thống Cloud quy mô lớn, cũng như vai trò của AI trong việc giải quyết các bài toán thực tế. Những kiến thức này giúp em kết nối tốt hơn giữa lý thuyết đã học ở trường với môi trường làm việc chuyên nghiệp.
-
-Bên cạnh đó, sự kiện cũng là cơ hội để em gặp gỡ và giao lưu với cộng đồng AWS. Những câu chuyện, kinh nghiệm và tinh thần sẵn sàng chia sẻ của các diễn giả đã tạo thêm động lực để em tiếp tục học tập, nghiên cứu và theo đuổi lĩnh vực Cloud Computing trong tương lai.
-
----
-
-## Một số hình ảnh tại sự kiện
-
+#### Một số hình ảnh khi tham gia sự kiện
 ![Event1](/images/4-Events/Event1a.png)
-
 ![Event1](/images/4-Events/Event1b.png)
+

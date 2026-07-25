@@ -22,9 +22,9 @@ pre: " <b> 1.4. </b> "
 | Day | Task                                                                | Start Date | Completion Date | Reference Material                                                       |
 | --- | ------------------------------------------------------------------- | ---------- | --------------- | ------------------------------------------------------------------------ |
 | 1   | Complete **Lab 03: Deploy Amazon EC2 Instances**.                   | 25/05/2026 | 26/05/2026      | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
-| 2   | Practice launching, configuring, and managing Amazon EC2 instances. | 27/05/2026 | 27/05/2026      | AWS Management Console                                                   |
+| 2   | Practice launching, configuring, and managing Amazon EC2 instances. | 27/05/2026 | 27/05/2026      | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
 | 3   | Complete **Lab 10: Set Up Hybrid DNS with Route 53 Resolver**.      | 28/05/2026 | 29/05/2026      | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
-| 4   | Verify the Hybrid DNS configuration and review the completed labs.  | 30/05/2026 | 30/05/2026      | AWS Management Console                                                   |
+| 4   | Verify the Hybrid DNS configuration and review the completed labs.  | 30/05/2026 | 30/05/2026      | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
 
 ### Week 4 Achievements
 

@@ -19,12 +19,12 @@ pre: " <b> 1.9. </b> "
 
 ### Tasks to be carried out this week
 
-| Day | Task                                                                                                                                                                      | Start Date | Completion Date | Reference Material     |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ---------------------- |
-| 1   | Complete **Lab 14** by installing VMware Workstation and practicing importing virtual machines into AWS, then exporting EC2 instances back to an on-premises environment. | 29/06/2026 | 30/06/2026      | AWS Management Console |
-| 2   | Complete **Lab 24** by deploying and configuring **AWS Storage Gateway**, mapping the default file share, and creating additional file shares.                            | 01/07/2026 | 02/07/2026      | AWS Management Console |
-| 3   | Complete **Lab 25** by testing storage performance and enabling data deduplication, shadow copies, user storage quotas, and continuous access file shares.                | 03/07/2026 | 04/07/2026      | AWS Management Console |
-| 4   | Scale throughput and storage capacity, then review and validate the completed lab environment.                                                                            | 05/07/2026 | 05/07/2026      | AWS Management Console |
+| Day | Task                                                                                                                                                                      | Start Date | Completion Date | Reference Material                                                       |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------------------------------------------------------------ |
+| 1   | Complete **Lab 14** by installing VMware Workstation and practicing importing virtual machines into AWS, then exporting EC2 instances back to an on-premises environment. | 29/06/2026 | 30/06/2026      | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
+| 2   | Complete **Lab 24** by deploying and configuring **AWS Storage Gateway**, mapping the default file share, and creating additional file shares.                            | 01/07/2026 | 02/07/2026      | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
+| 3   | Complete **Lab 25** by testing storage performance and enabling data deduplication, shadow copies, user storage quotas, and continuous access file shares.                | 03/07/2026 | 04/07/2026      | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
+| 4   | Scale throughput and storage capacity, then review and validate the completed lab environment.                                                                            | 05/07/2026 | 05/07/2026      | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
 
 ### Week 9 Achievements
 

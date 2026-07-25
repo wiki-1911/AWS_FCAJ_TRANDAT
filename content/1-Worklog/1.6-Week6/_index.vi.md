@@ -19,12 +19,12 @@ pre: " <b> 1.6. </b> "
 
 ### Công việc thực hiện
 
-| Ngày | Nội dung                                                                          | Bắt đầu    | Hoàn thành | Tài liệu tham khảo     |
-| ---- | --------------------------------------------------------------------------------- | ---------- | ---------- | ---------------------- |
-| 1    | Thực hành **Lab 13: Deploy Infrastructure**.                                      | 08/06/2026 | 09/06/2026 | AWS Management Console |
-| 2    | Tạo và cấu hình **AWS Backup Plan** cho các tài nguyên đã triển khai.             | 10/06/2026 | 11/06/2026 | AWS Management Console |
-| 3    | Thực hiện **Test Restore** để kiểm tra khả năng khôi phục dữ liệu từ bản sao lưu. | 12/06/2026 | 13/06/2026 | AWS Management Console |
-| 4    | Kiểm tra kết quả thực hành và đánh giá quy trình sao lưu, khôi phục dữ liệu.      | 14/06/2026 | 14/06/2026 | AWS Management Console |
+| Ngày | Nội dung                                                                          | Bắt đầu    | Hoàn thành | Tài liệu tham khảo                                                       |
+| ---- | --------------------------------------------------------------------------------- | ---------- | ---------- | ------------------------------------------------------------------------ |
+| 1    | Thực hành **Lab 13: Deploy Infrastructure**.                                      | 08/06/2026 | 09/06/2026 | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
+| 2    | Tạo và cấu hình **AWS Backup Plan** cho các tài nguyên đã triển khai.             | 10/06/2026 | 11/06/2026 | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
+| 3    | Thực hiện **Test Restore** để kiểm tra khả năng khôi phục dữ liệu từ bản sao lưu. | 12/06/2026 | 13/06/2026 | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
+| 4    | Kiểm tra kết quả thực hành và đánh giá quy trình sao lưu, khôi phục dữ liệu.      | 14/06/2026 | 14/06/2026 | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
 
 ### Kết quả đạt được
 

@@ -22,8 +22,8 @@ pre: " <b> 1.11. </b> "
 
 | Day | Task                                                                                                                                                                                  | Start Date | Completion Date | Reference Material     |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ---------------------- |
-| 1   | Implement real-time communication for the game using WebSocket technology.                                                                                                            | 13/07/2026 | 14/07/2026      | Project Source Code    |
-| 2   | Develop an Elo-based matchmaking system and implement Elo rating calculation after each match.                                                                                        | 15/07/2026 | 16/07/2026      | Project Documentation  |
+| 1   | Implement real-time communication for the game using WebSocket technology.                                                                                                            | 13/07/2026 | 14/07/2026      |                        |
+| 2   | Develop an Elo-based matchmaking system and implement Elo rating calculation after each match.                                                                                        | 15/07/2026 | 16/07/2026      |                        |
 | 3   | Improve the Amazon Cognito registration process by implementing the OTP resend feature for users in the **UNCONFIRMED** state.                                                        | 17/07/2026 | 17/07/2026      | Amazon Cognito         |
 | 4   | Integrate Amazon DynamoDB into the project and create AWS Lambda functions, including **Start Match**, **Process Game Engine**, **Save Deck**, **Handle Timeout**, and **End Match**. | 18/07/2026 | 19/07/2026      | AWS Management Console |
 

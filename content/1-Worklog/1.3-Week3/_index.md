@@ -23,8 +23,8 @@ pre: " <b> 1.3. </b> "
 | --- | ------------------------------------------------------------------------------------------------ | ---------- | --------------- | ------------------------------------------------------------------------ |
 | 1   | Participate in the AWS technical event to learn about cloud technologies and industry practices. | 18/05/2026 | 18/05/2026      | AWS Event                                                                |
 | 2   | Complete Module 2 theoretical lessons (2.1 – 2.3).                                               | 19/05/2026 | 20/05/2026      | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
-| 3   | Practice creating and configuring an Amazon Virtual Private Cloud (VPC).                         | 21/05/2026 | 22/05/2026      | AWS Management Console                                                   |
-| 4   | Configure VPC security settings, including Security Groups and network access controls.          | 23/05/2026 | 24/05/2026      | AWS Management Console                                                   |
+| 3   | Practice creating and configuring an Amazon Virtual Private Cloud (VPC).                         | 21/05/2026 | 22/05/2026      | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
+| 4   | Configure VPC security settings, including Security Groups and network access controls.          | 23/05/2026 | 24/05/2026      | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
 
 ### Week 3 Achievements
 

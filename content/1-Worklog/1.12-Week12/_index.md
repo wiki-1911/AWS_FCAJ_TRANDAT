@@ -25,7 +25,7 @@ pre: " <b> 1.12. </b> "
 | 1   | Create an IAM user for the development team to manage Amazon Cognito resources and configure AWS KMS and AWS Secrets Manager for secure key management.                          | 20/07/2026 | 21/07/2026      | AWS Management Console |
 | 2   | Configure Amazon SQS to trigger the **Post Match Worker** Lambda function and verify the asynchronous processing workflow.                                                       | 22/07/2026 | 22/07/2026      | AWS Management Console |
 | 3   | Configure **Amazon CloudWatch** to collect application logs, metrics, Lambda errors, and latency. Enable **AWS X-Ray** to trace requests across API Gateway and Lambda services. | 23/07/2026 | 24/07/2026      | AWS Management Console |
-| 4   | Perform end-to-end testing, complete the AWS workshop, finalize the project, and prepare the internship report.                                                                  | 25/07/2026 | 26/07/2026      | Project Documentation  |
+| 4   | Perform end-to-end testing, complete the AWS workshop, finalize the project, and prepare the internship report.                                                                  | 25/07/2026 | 26/07/2026      |                        |
 
 ### Week 12 Achievements
 

@@ -22,9 +22,9 @@ pre: " <b> 1.8. </b> "
 | Day | Task                                                                                           | Start Date | Completion Date | Reference Material                                                       |
 | --- | ---------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------------------------------------------------------------ |
 | 1   | Study the theoretical lessons of Module 4.                                                     | 22/06/2026 | 23/06/2026      | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
-| 2   | Complete **Lab 13** by creating an Amazon S3 bucket and deploying the required infrastructure. | 24/06/2026 | 25/06/2026      | AWS Management Console                                                   |
-| 3   | Create and configure an **AWS Backup Plan**, then set up backup notifications.                 | 26/06/2026 | 27/06/2026      | AWS Management Console                                                   |
-| 4   | Perform a restore test to verify the backup and recovery process.                              | 28/06/2026 | 28/06/2026      | AWS Management Console                                                   |
+| 2   | Complete **Lab 13** by creating an Amazon S3 bucket and deploying the required infrastructure. | 24/06/2026 | 25/06/2026      | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
+| 3   | Create and configure an **AWS Backup Plan**, then set up backup notifications.                 | 26/06/2026 | 27/06/2026      | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
+| 4   | Perform a restore test to verify the backup and recovery process.                              | 28/06/2026 | 28/06/2026      | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
 
 ### Week 8 Achievements
 

@@ -25,7 +25,7 @@ pre: " <b> 1.12. </b> "
 | 1    | Tạo **IAM User** cho nhóm phát triển để quản lý Amazon Cognito; cấu hình **AWS KMS** và **AWS Secrets Manager** để quản lý khóa mã hóa và thông tin bí mật.         | 20/07/2026 | 21/07/2026 | AWS Management Console |
 | 2    | Cấu hình **Amazon SQS** để kích hoạt Lambda **Post Match Worker**, kiểm tra quy trình xử lý bất đồng bộ sau mỗi trận đấu.                                           | 22/07/2026 | 22/07/2026 | AWS Management Console |
 | 3    | Cấu hình **Amazon CloudWatch** để thu thập nhật ký (logs), metrics, lỗi Lambda và độ trễ; sử dụng **AWS X-Ray** để theo dõi luồng xử lý giữa API Gateway và Lambda. | 23/07/2026 | 24/07/2026 | AWS Management Console |
-| 4    | Thực hiện kiểm thử toàn bộ hệ thống, hoàn thành workshop AWS, hoàn thiện dự án và viết báo cáo thực tập.                                                            | 25/07/2026 | 26/07/2026 | Project Documentation  |
+| 4    | Thực hiện kiểm thử toàn bộ hệ thống, hoàn thành workshop AWS, hoàn thiện dự án và viết báo cáo thực tập.                                                            | 25/07/2026 | 26/07/2026 |                        |
 
 ### Kết quả đạt được
 

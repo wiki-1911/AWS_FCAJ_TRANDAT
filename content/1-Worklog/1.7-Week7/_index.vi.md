@@ -20,12 +20,12 @@ pre: " <b> 1.7. </b> "
 
 ### Công việc thực hiện
 
-| Ngày | Nội dung                                                                                                                             | Bắt đầu    | Hoàn thành | Tài liệu tham khảo     |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ---------- | ---------------------- |
-| 1    | Tham gia học tập tại văn phòng và trao đổi với mentor về nội dung các bài lab.                                                       | 15/06/2026 | 15/06/2026 | Company Office         |
-| 2    | Thực hành **Lab 24**, bao gồm tạo Amazon S3 Bucket, triển khai EC2 cho Storage Gateway, tạo Storage Gateway và cấu hình File Shares. | 16/06/2026 | 18/06/2026 | AWS Management Console |
-| 3    | Thực hành **Lab 57**, bao gồm kích hoạt Static Website Hosting, cấu hình Public Access và kiểm tra website.                          | 19/06/2026 | 20/06/2026 | AWS Management Console |
-| 4    | Cấu hình Bucket Versioning, di chuyển đối tượng trong S3, thiết lập Cross-Region Replication và tối ưu hiệu năng website tĩnh.       | 21/06/2026 | 21/06/2026 | AWS Management Console |
+| Ngày | Nội dung                                                                                                                             | Bắt đầu    | Hoàn thành | Tài liệu tham khảo                                                       |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------ | ---------- | ---------- | ------------------------------------------------------------------------ |
+| 1    | Tham gia học tập tại văn phòng và trao đổi với mentor về nội dung các bài lab.                                                       | 15/06/2026 | 15/06/2026 | Company Office                                                           |
+| 2    | Thực hành **Lab 24**, bao gồm tạo Amazon S3 Bucket, triển khai EC2 cho Storage Gateway, tạo Storage Gateway và cấu hình File Shares. | 16/06/2026 | 18/06/2026 | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
+| 3    | Thực hành **Lab 57**, bao gồm kích hoạt Static Website Hosting, cấu hình Public Access và kiểm tra website.                          | 19/06/2026 | 20/06/2026 | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
+| 4    | Cấu hình Bucket Versioning, di chuyển đối tượng trong S3, thiết lập Cross-Region Replication và tối ưu hiệu năng website tĩnh.       | 21/06/2026 | 21/06/2026 | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
 
 ### Kết quả đạt được
 

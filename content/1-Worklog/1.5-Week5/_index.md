@@ -22,9 +22,9 @@ pre: " <b> 1.5. </b> "
 | Day | Task                                                                                                                             | Start Date | Completion Date | Reference Material                                                       |
 | --- | -------------------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ------------------------------------------------------------------------ |
 | 1   | Study Module 3 theory (Lessons 3.1 – 3.7).                                                                                       | 01/06/2026 | 02/06/2026      | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
-| 2   | Complete **Lab 19: Setting Up VPC Peering**, including VPC Peering Connection, Network ACL, and Cross-Peering DNS configuration. | 03/06/2026 | 04/06/2026      | AWS Management Console                                                   |
-| 3   | Complete **Lab 20: Create Transit Gateway**, including Transit Gateway Attachments, Route Tables, and VPC Route configuration.   | 05/06/2026 | 06/06/2026      | AWS Management Console                                                   |
-| 4   | Review the completed labs and verify connectivity between VPCs using VPC Peering and Transit Gateway.                            | 07/06/2026 | 07/06/2026      | AWS Management Console                                                   |
+| 2   | Complete **Lab 19: Setting Up VPC Peering**, including VPC Peering Connection, Network ACL, and Cross-Peering DNS configuration. | 03/06/2026 | 04/06/2026      | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
+| 3   | Complete **Lab 20: Create Transit Gateway**, including Transit Gateway Attachments, Route Tables, and VPC Route configuration.   | 05/06/2026 | 06/06/2026      | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
+| 4   | Review the completed labs and verify connectivity between VPCs using VPC Peering and Transit Gateway.                            | 07/06/2026 | 07/06/2026      | https://www.youtube.com/playlist?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i |
 
 ### Week 5 Achievements
 
